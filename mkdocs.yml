@@ -1,0 +1,13 @@
+site_name: Flo Hypot
+
+theme:
+  name: "material"
+
+plugins:
+- mkdocstrings:
+    handlers:
+      python:
+        paths: [src]  # search packages in the src folder
+
+nav:
+  - FILE NAME HERE: index.md
