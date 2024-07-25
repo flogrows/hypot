@@ -2,10 +2,10 @@ def thing(a,b):
     """Adds a and b
 
     Args:
-        a (_type_): _description_
-        b (_type_): _description_
+        a (_type_): A number
+        b (_type_): Another number
 
     Returns:
-        _type_: _description_
+        _type_: The sum of two numbers
     """
     return a+b
